@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=cublas-example
+Exec=cublas-example %F
+Icon=cublas-example
+Type=Application
+Categories=Science;
+Comment=cublas-example
+Terminal=true
+NoDisplay=true
