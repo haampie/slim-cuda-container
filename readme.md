@@ -1,6 +1,6 @@
-# Slimming big CUDA Docker containers with multistage builds and application bundling
+# Slimming big CUDA Docker images with multistage builds and application bundling
 
-Building an image and running the CUBLAS GEMM demo:
+Building an image and running a CUBLAS demo:
 
 ```
 $ git clone https://github.com/haampie/slim-cuda-container.git
